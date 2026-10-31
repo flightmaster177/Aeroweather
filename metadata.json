@@ -1,0 +1,6 @@
+{
+  "name": "AeroWeather",
+  "description": "Aviation weather viewer with live NOAA METAR and TAF reports, flight categories, density altitude, airport favorites with nicknames, and historical weather trend analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
